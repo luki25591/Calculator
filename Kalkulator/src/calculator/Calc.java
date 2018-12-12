@@ -4,7 +4,7 @@ public class Calc {
 	private double a;
 	private double b;
 	private double h;
-	private double g;
+	
 
 	public double getA() {
 		return a;
