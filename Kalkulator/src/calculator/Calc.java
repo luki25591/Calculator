@@ -5,6 +5,7 @@ public class Calc {
 	private double b;
 	private double h;
 	private double g;
+	private double i;
 
 	public double getA() {
 		return a;
